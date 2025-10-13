@@ -25,8 +25,9 @@
 ### 📊 GitHub Stats
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Aftab503&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Aftab503&show_icons=true&theme=tokyonight&count_private=true" alt="Ali's GitHub Stats" />
 </p>
+
 
 
 ---
