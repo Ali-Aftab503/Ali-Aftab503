@@ -1,8 +1,3 @@
-### 👋🏻 Hi, I'm Ali!
-
-🧑🏻‍💻 Full Stack Developer sharing about my journey and learnings in tech<br/>
-<h1 align="center">Hi there 👋, I'm Ali</h1>
-<h3 align="center">Full Stack Developer | Tech Learner | Creator</h3>
 
 ---
 
@@ -36,7 +31,7 @@
 ### 📊 GitHub Stats
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Ali-Aftab503yourusername&show_icons=true&theme=tokyonight&count_private=true" alt="Ali's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?Ali-Aftab503&show_icons=true&theme=tokyonight&count_private=true" alt="Ali's GitHub Stats" />
 </p>
 
 ---
@@ -47,20 +42,26 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
+
 ---
 
 ### 📬 Connect With Me
+### 📬 Connect With Me
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://dev.to/aliaftabch3503"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aliaftabch/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@talhabinaftabch6"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://dev.to/aliaftabch3503"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
   <a href="https://github.com/Ali-Aftab503"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
 
 ---
 
