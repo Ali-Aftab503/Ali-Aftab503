@@ -1,11 +1,5 @@
-
----
-
-### 🌟 About Me
-- 💻 Passionate about **technology**, **problem-solving**, and building real-world products.  
-- 🚀 Focused on **MERN stack** development.  
-- 🧠 Always curious to learn new tools, frameworks, and concepts.  
-- ✨ Documenting my journey as I grow in tech.
+<h1 align="center">👋 Hi, I'm Ali!</h1>
+<h3 align="center">Full Stack Developer | Building Scalable Web Applications | Focused on Clean Code, Performance & Innovation</h3>
 
 ---
 
@@ -31,8 +25,9 @@
 ### 📊 GitHub Stats
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Ali-Aftab503&show_icons=true&theme=tokyonight&count_private=true" alt="Ali's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Aftab503&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 
@@ -52,7 +47,6 @@
 
 ---
 
-### 📬 Connect With Me
 ### 📬 Connect With Me
 <p>
   <a href="https://dev.to/aliaftabch3503"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
