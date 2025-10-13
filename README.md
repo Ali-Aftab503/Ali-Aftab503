@@ -22,16 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Aftab503&show_icons=true&theme=tokyonight&count_private=true" alt="Ali's GitHub Stats" />
-</p>
-
-
-
----
-
 ### 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -46,7 +36,18 @@
 </p>
 
 
+
 ---
+
+### 📊 GitHub Stats
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Aftab503&show_icons=true&theme=tokyonight&count_private=true" alt="Ali's GitHub Stats" />
+</p>
+
+
+---
+
 
 ### 📬 Connect With Me
 <p>
