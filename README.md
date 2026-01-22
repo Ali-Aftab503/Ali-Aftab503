@@ -18,7 +18,7 @@ Full-stack developer specializing in building production-ready web applications 
 - 🚀 Expertise in **real-time systems** (Socket.IO, WebSocket, Pusher)
 - 🤖 Integrating **AI capabilities** using OpenAI API
 - 🎨 Creating immersive experiences with **Three.js** and **Framer Motion**
-- 📍 Based in **Lahore, Pakistan** | Currently pursuing **Bachelor's in Computer Science**
+- 📍 Based in **Lahore, Pakistan** 
 - 🌐 Portfolio: **[aliaftab.live](https://aliaftab.live)**
 
 ---
